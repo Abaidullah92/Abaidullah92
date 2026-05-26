@@ -50,12 +50,12 @@
 <div align="center">
 
 ### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python" height="48"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="48"/>
 
 ---
 
 ### 💻 Programming (Core)
-<img src="https://skillicons.dev/icons?i=c,cpp" height="48"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python" height="48"/>
 
 <p>
 Data Structures & Algorithms • Problem Solving • OOP Concepts
@@ -70,9 +70,12 @@ Data Structures & Algorithms • Problem Solving • OOP Concepts
 
 ---
 
-### 📡 IoT & Embedded Systems
+### ⚡ Electrical & Embedded Systems
 <p>
-IoT Fundamentals • Sensors Integration • Microcontroller Basics • Embedded Systems Projects
+<img src="https://img.shields.io/badge/Microprocessors-Architecture_%26_Programming-00F7FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microcontrollers-PIC_%7C_Arduino-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Proteus-Circuit_Simulation-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Assembly-Low_Level_Programming-gray?style=for-the-badge"/>
 </p>
 
 ---
