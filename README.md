@@ -16,12 +16,14 @@
 
 ## 🧠 About Me
 
-- 🎓 **Electrical Engineering Student** at FAST-NUCES Lahore
-- 💻 Passionate about **Frontend Development** and building real-world projects
-- ⚡ Love creating clean, responsive, and user-friendly interfaces
-- 🔐 Experience with **Clerk Authentication** for secure app login systems
-- 🌍 Based in **Lahore, Pakistan**
-- 🚀 Always learning and improving every single day
+- 🎓 **Electrical Engineering Student** at FAST-NUCES Lahore  
+- ⚙️ Specialization in **Computer Engineering (CE)** with focus on **IoT, Embedded Systems & Microprocessors**  
+- 🔧 Strong hands-on experience in **IoT-based and hardware-integrated projects using microcontrollers and sensors**  
+- 💻 Passionate about **Frontend Development** (React, modern UI design, responsive web apps) as an additional skill set  
+- 🧠 Interested in building **real-world systems that combine hardware + software solutions**  
+- 🔐 Experience with **secure authentication systems (Clerk)** in web applications  
+- 🌍 Based in Lahore, Pakistan  
+- 🚀 Continuously learning and improving through academic and practical projects
 
 ---
 
@@ -79,7 +81,7 @@ IoT Fundamentals • Sensors Integration • Microcontroller Basics • Embedded
 <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48"/>
 
 </div>
----
+
 
 ## 📊 GitHub Analytics
 
@@ -103,6 +105,7 @@ IoT Fundamentals • Sensors Integration • Microcontroller Basics • Embedded
 |---------|-------------|------|
 | **🛒 Grocery Store Management** | Console-based DSA project using Linked Lists, Queues, Sorting & File Handling | C++ |
 | **💊 Online Pharmacy System** | Console-based C++ system for managing medicines, customers, orders, and inventory using core programming logic and file handling | C++ |
+| **⚡ Smart Energy Monitoring System (IoT)** | IoT-based project for monitoring and analyzing energy usage in real-time using sensors and microcontroller integration for efficient power management | Microcontroller, IoT Sensors, Embedded C,C++ |
 | **🚀 Nexus Platform** | A frontend-only investment & entrepreneurship platform with dashboard, calendar, video call UI, documents, and payments. Built as a polished UI prototype using mock data | React 19, Vite, Tailwind CSS v4, Clerk Auth, Wouter |
 | **🩺 Health Credential Website** | Web platform for managing health credentials and records with secure UI and structured data display | HTML, CSS, JavaScript |
 
@@ -115,13 +118,25 @@ IoT Fundamentals • Sensors Integration • Microcontroller Basics • Embedded
 
 <div align="center">
 
-| Skill | Progress |
-|-------|----------|
-| React Advanced Patterns | ████████████░░░░ 75% |
-| Python | ██████████░░░░░ 60% |
-| JavaScript (ES6+) | ████████████████ 90% |
-| Backend Development | ███░░░░░░░░ 20% |
+| Skill | Level |
+|-------|------|
+| React (Basic Usage - Components & UI) | ██████░░░░░░░░ 40% |
+| JavaScript (Basic Understanding) | ███████░░░░░░░ 50% |
+| Python | ████████░░░░░░ 60% |
+| Backend Development | ███░░░░░░░░░░ 20% |
 
+</div>
+
+---
+
+## 💻 Core Skills
+
+<div align="center">
+
+| Skill | Level |
+|-------|------|
+| C / C++ (Strong Core Programming) | ██████████████ 85% |
+| IoT / Embedded Systems | ███████████░░░ 75% |
 
 </div>
 
