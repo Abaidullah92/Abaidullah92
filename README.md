@@ -71,19 +71,22 @@ Data Structures & Algorithms • Problem Solving • OOP Concepts
 ---
 
 ### ⚡ Electrical & Embedded Systems
-<p>
-<img src="https://img.shields.io/badge/Microprocessors-Architecture_%26_Programming-00F7FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microcontrollers-PIC_%7C_Arduino-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proteus-Circuit_Simulation-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Assembly-Low_Level_Programming-gray?style=for-the-badge"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microprocessors-Architecture%20%26%20Programming-00F7FF?style=for-the-badge&logo=cpu&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microcontrollers-PIC%20%7C%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proteus-Circuit%20Simulation-FF6B6B?style=for-the-badge&logo=protools&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-Low%20Level%20Programming-6C757D?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
 </p>
 
 ---
 
 ### 🛠️ Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="48"/>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,matlab,proteus" height="48"/>
+</p>
+
 
 ---
 
