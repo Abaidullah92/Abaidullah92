@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,50:0D1F2D,100:0A3444&height=220&section=header&text=Abaidullah%20Tasleem&fontSize=55&fontColor=00F7FF&fontAlignY=40&desc=Electrical%20Engineer%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20Frontend%20Developer&descSize=17&descAlignY=60&descColor=ffffff&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,50:0D1F2D,100:0A3444&height=220&section=header&text=Abaidullah%20Tasleem&fontSize=55&fontColor=00F7FF&fontAlignY=40&desc=Electrical%20Engineer%20%7C%20Specialization%20in%20CE%20%7C%20IoT%20%7C%20Frontend%20Developer&descSize=17&descAlignY=60&descColor=ffffff&animation=fadeIn&width=1500"/>
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Python;Electrical+Engineering+Student+%40+FAST+Lahore+%E2%9A%A1;IoT+%7C+Embedded+Systems+%7C+Building+Real+World+Projects;Always+Learning+and+Building+%F0%9F%93%9A" alt="Typing SVG" />
