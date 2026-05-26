@@ -18,7 +18,6 @@
 
 ## 🧠 About Me
 
-```typescript
 const abaidullah = {
   name:       "Abaidullah Tasleem",
   role:       "Electrical Engineer & Advanced Frontend Developer",
