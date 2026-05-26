@@ -50,16 +50,35 @@
 ### 🌐 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python" height="48"/>
 
+---
+
+### 💻 Programming (Core)
+<img src="https://skillicons.dev/icons?i=c,cpp" height="48"/>
+
+<p>
+Data Structures & Algorithms • Problem Solving • OOP Concepts
+</p>
+
+---
+
 ### 🔐 Authentication
 <p>
 <img src="https://img.shields.io/badge/Clerk-Authentication-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
 </p>
 
+---
+
+### 📡 IoT & Embedded Systems
+<p>
+IoT Fundamentals • Sensors Integration • Microcontroller Basics • Embedded Systems Projects
+</p>
+
+---
+
 ### 🛠️ Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48"/>
 
 </div>
-
 ---
 
 ## 📊 GitHub Analytics
