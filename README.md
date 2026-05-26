@@ -1,18 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Abaidullah%20Tasleem&fontSize=50&fontColor=00F7FF&fontAlignY=38&desc=Electrical%20Engineer%20%7C%20Specialization%20in%20CE%20%7C%20Frontend%20Developer%20%7C%20IOT%20System&descSize=18&descAlignY=58&descColor=ffffff&animation=fadeIn"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Python;Electrical+Engineering+Student+%40+FAST+Lahore+%E2%9A%A1;IoT+%7C+Embedded+Systems+%7C+Problem+Solver;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020B18,50:0D1F2D,100:0A3444&height=220&section=header&text=Abaidullah%20Tasleem&fontSize=55&fontColor=00F7FF&fontAlignY=40&desc=Electrical%20Engineer%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20Frontend%20Developer&descSize=17&descAlignY=60&descColor=ffffff&animation=fadeIn"/>
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Abaidullah92&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Abaidullah92)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Abaidullah92?style=for-the-badge&color=00F7FF&labelColor=0d1117&logo=github)](https://github.com/Abaidullah92)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Python;Electrical+Engineering+Student+%40+FAST+Lahore+%E2%9A%A1;IoT+%7C+Embedded+Systems+%7C+Building+Real+World+Projects;Always+Learning+and+Building+%F0%9F%93%9A" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Abaidullah92&color=0D1F2D&style=for-the-badge&label=PROFILE+VIEWS&logo=eye&logoColor=00F7FF)](https://github.com/Abaidullah92)
+&nbsp;&nbsp;
+[![GitHub Followers](https://img.shields.io/github/followers/Abaidullah92?style=for-the-badge&label=GITHUB+FOLLOWERS&logo=github&logoColor=00F7FF&color=0D1F2D&labelColor=0D1F2D)](https://github.com/Abaidullah92)
 
 </div>
 
----
 
 ## 🧠 About Me
 
