@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Abaidullah%20Tasleem&fontSize=50&fontColor=00F7FF&fontAlignY=38&desc=Electrical%20Engineer%20%7C%20Frontend%20Developer&descSize=18&descAlignY=58&descColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Abaidullah%20Tasleem&fontSize=50&fontColor=00F7FF&fontAlignY=38&desc=Electrical%20Engineer%20%7C%20Specialization%20in%20CE%20%7C%20Frontend%20Developer%20%7C%20IOT%20System&descSize=18&descAlignY=58&descColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Python;Electrical+Engineer+%40+FAST+Lahore+%E2%9A%A1;Building+Beautiful+Interfaces;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+JavaScript+%7C+Python;Electrical+Engineering+Student+%40+FAST+Lahore+%E2%9A%A1;IoT+%7C+Embedded+Systems+%7C+Problem+Solver;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 
 <br/>
 
@@ -114,7 +114,7 @@ Data Structures & Algorithms • Problem Solving • OOP Concepts
 | **🛒 Grocery Store Management** | Console-based DSA project using Linked Lists, Queues, Sorting & File Handling | C++ |
 | **💊 Online Pharmacy System** | Console-based inventory management system with file handling and structured data operations | C++ |
 | **⚡ Smart Energy Monitoring System (IoT)** |Real-time IoT energy monitoring system using sensors and microcontroller integration for data acquisition and analysis | Microcontroller, IoT Sensors, Embedded C,C++ |
-| **🚀 Nexus Platform** | A frontend-only investment & entrepreneurship platform with dashboard, calendar, video call UI, documents, and payments. Built as a polished UI prototype using mock data | React 19, Vite, Tailwind CSS v4, Clerk Auth, Wouter | (UI/UX prototype with modern frontend architecture) |
+| **🚀 Nexus Platform** | A frontend-only investment & entrepreneurship platform with dashboard, calendar, video call UI, documents, and payments. Built as a polished UI prototype using mock data | React 19, Vite, Tailwind CSS v4, Clerk Auth, Wouter |
 | **🩺 Health Credential Website** | Web platform for managing health credentials and records with secure UI and structured data display | HTML, CSS, JavaScript |
 
 
@@ -165,7 +165,7 @@ Data Structures & Algorithms • Problem Solving • OOP Concepts
 
 <div align="center">
 
-### 💬 *"Build things that matter. Write code that lasts."*
+### 💬 *"Build systems that solve real problems. Write code that scales."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&animation=fadeIn"/>
 
