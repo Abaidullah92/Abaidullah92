@@ -48,13 +48,11 @@
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Abaidullah92&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF"/>
-&nbsp;
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abaidullah92&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abaidullah92&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=ff6b6b&currStreakLabel=00F7FF" height="185em"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abaidullah92&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=ff6b6b&currStreakLabel=00F7FF" height="185em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abaidullah92&theme=tokyonight" width="90%"/>
 
 </div>
 
