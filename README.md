@@ -18,7 +18,8 @@
 
 - 🎓 **Electrical Engineering Student** at FAST-NUCES Lahore  
 - ⚙️ Specialization in **Computer Engineering (CE)** with focus on **IoT, Embedded Systems & Microprocessors**  
-- 🔧 Strong hands-on experience in **IoT-based and hardware-integrated projects using microcontrollers and sensors**  
+- 🔧 Strong hands-on experience in IoT systems, embedded hardware, microcontrollers, and real-time sensor-based applications
+-  🐧 Experience working in Linux (Ubuntu via VMware) development environment
 - 💻 Passionate about **Frontend Development** (React, modern UI design, responsive web apps) as an additional skill set  
 - 🧠 Interested in building **real-world systems that combine hardware + software solutions**  
 - 🔐 Experience with **secure authentication systems (Clerk)** in web applications  
@@ -30,7 +31,7 @@
 # 💼 Experience
 
 ## Intern – Developer Hub Corporation
-📍 Frontend Developer Intern  
+📍 Frontend Developer Intern (React & UI Development)
 🗓️ Duration: March 2026 – Present
 
 ### Responsibilities:
@@ -40,7 +41,7 @@
 - Collaborated on production-level prototypes
 
 ### Projects Assigned:
-- 🚀 Nexus Platform (Frontend Investment & Entrepreneurship System)
+- 🚀 Nexus Platform – Investment & entrepreneurship UI platform (dashboard, scheduling, payments UI, video call interface)
 - 🩺 Health Credential Website (Medical Data Management System UI)
 
 ---
@@ -73,10 +74,10 @@ Data Structures & Algorithms • Problem Solving • OOP Concepts
 ### ⚡ Electrical & Embedded Systems
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microprocessors-Architecture%20%26%20Programming-00F7FF?style=for-the-badge&logo=cpu&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microcontrollers-PIC%20%7C%20Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Proteus-Circuit%20Simulation-FF6B6B?style=for-the-badge&logo=protools&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Assembly-Low%20Level%20Programming-6C757D?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microprocessors-Architecture%20%26%20Programming-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microcontrollers-PIC%20%7C%20Arduino-00979D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Proteus-Circuit%20Simulation-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20C%20%26%20C++-Programming-6C757D?style=for-the-badge"/>
 </p>
 
 ---
@@ -84,7 +85,7 @@ Data Structures & Algorithms • Problem Solving • OOP Concepts
 ### 🛠️ Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,matlab,proteus" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,matlab,visualstudio,ubuntu,linux" height="48"/>
 </p>
 
 
