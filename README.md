@@ -95,13 +95,16 @@ Data Structures & Algorithms • Problem Solving • OOP Concepts
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abaidullah92/Abaidullah92/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abaidullah92&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7FF&fire=ff6b6b&currStreakLabel=00F7FF" height="185em"/>
 
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abaidullah92&theme=tokyonight" width="90%"/>
+
+
+<img src="https://raw.githubusercontent.com/Abaidullah92/Abaidullah92/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
