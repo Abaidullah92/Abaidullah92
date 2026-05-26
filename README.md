@@ -25,6 +25,24 @@
 
 ---
 
+# 💼 Experience
+<div align="center">
+## Intern – Developer Hub Corporation
+📍 Frontend Developer Intern  
+🗓️ Duration: March 2026 – Present
+
+### Responsibilities:
+- Worked on real-world frontend projects
+- Developed UI-based applications using React ecosystem
+- Built scalable and responsive interfaces
+- Collaborated on production-level prototypes
+
+### Projects Assigned:
+- 🚀 Nexus Platform (Frontend Investment & Entrepreneurship System)
+- 🩺 Health Credential Website (Medical Data Management System UI)
+
+</div>
+  
 ## ⚡ Tech Stack
 
 <div align="center">
