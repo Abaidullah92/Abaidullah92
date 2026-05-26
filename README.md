@@ -112,9 +112,9 @@ Data Structures & Algorithms • Problem Solving • OOP Concepts
 | Project | Description | Tech |
 |---------|-------------|------|
 | **🛒 Grocery Store Management** | Console-based DSA project using Linked Lists, Queues, Sorting & File Handling | C++ |
-| **💊 Online Pharmacy System** | Console-based C++ system for managing medicines, customers, orders, and inventory using core programming logic and file handling | C++ |
-| **⚡ Smart Energy Monitoring System (IoT)** | IoT-based project for monitoring and analyzing energy usage in real-time using sensors and microcontroller integration for efficient power management | Microcontroller, IoT Sensors, Embedded C,C++ |
-| **🚀 Nexus Platform** | A frontend-only investment & entrepreneurship platform with dashboard, calendar, video call UI, documents, and payments. Built as a polished UI prototype using mock data | React 19, Vite, Tailwind CSS v4, Clerk Auth, Wouter |
+| **💊 Online Pharmacy System** | Console-based inventory management system with file handling and structured data operations | C++ |
+| **⚡ Smart Energy Monitoring System (IoT)** |Real-time IoT energy monitoring system using sensors and microcontroller integration for data acquisition and analysis | Microcontroller, IoT Sensors, Embedded C,C++ |
+| **🚀 Nexus Platform** | A frontend-only investment & entrepreneurship platform with dashboard, calendar, video call UI, documents, and payments. Built as a polished UI prototype using mock data | React 19, Vite, Tailwind CSS v4, Clerk Auth, Wouter | (UI/UX prototype with modern frontend architecture) |
 | **🩺 Health Credential Website** | Web platform for managing health credentials and records with secure UI and structured data display | HTML, CSS, JavaScript |
 
 
