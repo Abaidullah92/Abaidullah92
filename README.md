@@ -65,8 +65,10 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | **🛒 Grocery Store Management** | Console-based DSA project using Linked Lists, Queues, Sorting & File Handling | C++ |
-| **🎓 Student Portal** | Full UI with Login, Signup, and Student Dashboard | HTML, CSS, JS |
-| **🌐 Tribute Page** | Responsive tribute webpage with modern CSS | HTML, CSS |
+| **💊 Online Pharmacy System** | Console-based C++ system for managing medicines, customers, orders, and inventory using core programming logic and file handling | C++ |
+| **🚀 Nexus Platform** | A frontend-only investment & entrepreneurship platform with dashboard, calendar, video call UI, documents, and payments. Built as a polished UI prototype using mock data | React 19, Vite, Tailwind CSS v4, Clerk Auth, Wouter |
+| **🩺 Health Credential Website** | Web platform for managing health credentials and records with secure UI and structured data display | HTML, CSS, JavaScript |
+
 
 </div>
 
@@ -79,9 +81,10 @@
 | Skill | Progress |
 |-------|----------|
 | React Advanced Patterns | ████████████░░░░ 75% |
-| Python | ██████████░░░░░░ 60% |
+| Python | ██████████░░░░░ 60% |
 | JavaScript (ES6+) | ████████████████ 90% |
-| Backend Development | ██████░░░░░░░░░░ 40% |
+| Backend Development | ███░░░░░░░░ 20% |
+
 
 </div>
 
