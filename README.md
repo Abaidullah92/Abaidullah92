@@ -82,6 +82,7 @@ IoT Fundamentals • Sensors Integration • Microcontroller Basics • Embedded
 
 </div>
 
+---
 
 ## 📊 GitHub Analytics
 
