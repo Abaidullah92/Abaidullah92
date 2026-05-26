@@ -150,7 +150,7 @@ IoT Fundamentals • Sensors Integration • Microcontroller Basics • Embedded
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abaidullah-tasleem-46356b315)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meharabaidullah19@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=meharabaidullah19@gmail.com)
 
 </div>
 ---
